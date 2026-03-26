@@ -41,11 +41,7 @@ plt.scatter(x,y,color='Red')
 plt.plot(x,ypred,color='Blue')
 plt.show()
 
-## Output
-</br>
-</br>
-</br>
-</br>
+
 ```
 ### OUTPUT
 <img width="763" height="596" alt="image" src="https://github.com/user-attachments/assets/16c123a9-c9ab-4c30-bdfd-242a70cef8f2" />
